@@ -13,5 +13,6 @@
 </head>
 <body>
     <h2>${message}</h2>
+    <h1>Test</h1>
 </body>
 </html>
